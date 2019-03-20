@@ -2,4 +2,4 @@
 React native component that places items above the keyboard
 
 
-![](demo/IMG_E0345.JPG =250x250)
+![](demo/IMG_E0345.JPG | width=100)
