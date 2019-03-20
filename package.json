@@ -1,0 +1,25 @@
+{
+  "name": "react-native-above-keyboard",
+  "version": "1.0.0",
+  "description": "A simple react-native component that places a component ontop of the keyboard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "ios",
+    "android",
+    "mobile",
+    "keyboard"
+  ],
+  "author": "Ojoma Onoja <stevenelnino101@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "peerDependencies": {
+    "react-native": "*"
+  }
+}
