@@ -16,6 +16,8 @@
   ],
   "author": "Ojoma Onoja <stevenelnino101@gmail.com>",
   "license": "MIT",
+  "homepage": "https://github.com/stevieoj/react-native-above-keyboard",
+  "bugs": "https://github.com/stevieoj/react-native-above-keyboard/issues",
   "dependencies": {
     "prop-types": "^15.7.2"
   },
