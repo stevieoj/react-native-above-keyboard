@@ -16,11 +16,11 @@ Also, you may place your component anywhere on the screen using the containerSty
 Installation can be done through `npm` or `yarn`:
 
 ```shell
-npm i react-native-keyboard-aware-scroll-view --save
+npm i react-native-above-keyboard --save
 ```
 
 ```shell
-yarn add react-native-keyboard-aware-scroll-view
+yarn add react-native-above-keyboard
 ```
 
 ## Usage
