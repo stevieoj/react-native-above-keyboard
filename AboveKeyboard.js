@@ -23,6 +23,11 @@ export default class AboveKeyboard extends Component {
     this.keyboardWillHideListener = Keyboard.addListener('keyboardWillHide', this.keyboardWillHide);
   }
 
+  componentWillUnmount() {
+    Keyboard.removeListener('keyboardWillShow', this.keyboardWillShow);
+    Keyboard.removeListener('keyboardWillHide', this.keyboardWillHide);
+  }
+
   keyboardWillShow = (event) => {
     Animated.timing(this.padding, {
       duration: event.duration,
