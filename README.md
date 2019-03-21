@@ -7,7 +7,7 @@ React native component that places items above the keyboard
 ### Description
 
 This component is not a replacement for `KeyboardAvoidingView`. It is useful for scenarios where you want to display
-items at the bottom of the screen but when the keyboard triggerd it moves the items just above the keyboard.
+items at the bottom of the screen but when the keyboard is triggerd it moves the items just above the keyboard.
 
 
 ## Installation
